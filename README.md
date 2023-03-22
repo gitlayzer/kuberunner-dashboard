@@ -15,3 +15,34 @@
 ![](https://user-images.githubusercontent.com/77761224/225937813-97fa6adf-6429-4228-a54b-3eeb6ab4d593.png)
 
 ![](https://user-images.githubusercontent.com/77761224/225937853-49c7ff8a-5b51-40ad-9c68-ca86ed9d8475.png)
+
+
+
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Lints and fixes files
+
+```
+npm run lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
