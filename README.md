@@ -1,5 +1,4 @@
-# kuberunner-dashboard
-此项目由kubemanager-vue重写，目前功能还有局限，但基本可以替代终端操作集群
+![kuberunner](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/d94d0f6d-aa64-4179-956b-2dcd5544b9c1)
 
 
 ![](https://user-images.githubusercontent.com/77761224/225937451-1e1db417-b272-4e15-960d-7aebb07772b7.png)

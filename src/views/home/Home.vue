@@ -16,7 +16,7 @@
             <a-divider type="vertical" style="height: 70px; background-color: rgb(89,104,173)"></a-divider>
             <a-col :span="7">
               <div style="font-size: 13px">版本</div>
-              <div style="text-align: center;font-size: 30px;font-weight: bold">v0.0.1</div>
+              <div style="text-align: center;font-size: 30px;font-weight: bold">v0.0.4</div>
             </a-col>
           </a-row>
           <a-row :gutter="10">
