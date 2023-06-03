@@ -1,21 +1,25 @@
 ![kuberunner](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/d94d0f6d-aa64-4179-956b-2dcd5544b9c1)
 
 
-![](https://user-images.githubusercontent.com/77761224/225937451-1e1db417-b272-4e15-960d-7aebb07772b7.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/437cb401-7cc7-45fa-89b7-dbdc7c731982)
 
-![](https://user-images.githubusercontent.com/77761224/225937559-037beff9-4887-4346-85d0-da9cd150e153.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/18981992-1501-4b78-a69a-d9825f50b9b2)
 
-![](https://user-images.githubusercontent.com/77761224/225937710-3b187776-107c-494c-a7a8-821aec1b5e2a.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/360786b5-134e-4994-9e9d-2d97ee81493e)
 
-![](https://user-images.githubusercontent.com/77761224/225937723-0f88c732-85fa-4c8d-8ec5-e9549a17d430.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/b10705a3-496a-4333-9707-f4b5da088686)
 
-![](https://user-images.githubusercontent.com/77761224/225937781-9b61af3a-dbd0-4f8d-baa6-5d8e9bb5ebf0.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/8c385ddb-cda2-4516-be20-94d5dc7dc01d)
 
-![](https://user-images.githubusercontent.com/77761224/225937813-97fa6adf-6429-4228-a54b-3eeb6ab4d593.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/ca73125e-6a72-40ea-be88-7b25632ba551)
 
-![](https://user-images.githubusercontent.com/77761224/225937853-49c7ff8a-5b51-40ad-9c68-ca86ed9d8475.png)
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/60178452-ee4c-4d11-b41b-82d7bb133d73)
 
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/4e5104fd-e91d-42cf-b911-5982dd1ce36b)
 
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/dfc5ed40-8b5a-4115-baa4-3c25dac25f91)
+
+![image](https://github.com/gitlayzer/kuberunner-dashboard/assets/77761224/ecee9aaa-d7b7-4d62-ae90-073e330c5ab2)
 
 
 ## Project setup
